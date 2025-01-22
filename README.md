@@ -1,7 +1,7 @@
 # Sphera-Integrated-Circuit-Analysis
 
 ## Overview
-This project analyzes a dataset of Sphera Integrated Circuits (ICs) with the goal of uncovering relationships between factors such as cost, power dissipation, process node, lead count, and package type. By leveraging Python in a Jupyter Notebook, the project cleans and explores the data, then visualizes key findings using matplotlib and seaborn. The results can guide sourcing decisions, highlight potential cost drivers, and inform package/family selections.
+This project analyzes a dataset of Sphera Integrated Circuits (ICs) with the goal of uncovering relationships between factors such as cost, power dissipation, process node, lead count, and package type. By utilizing Python in a Jupyter Notebook, the project cleans and explores the data, then visualizes key findings using matplotlib and seaborn. The results can improve sourcing decisions, highlight potential cost drivers, and inform package/family selections.
 
 ## Key Features
 - Data Cleaning & Preparation:
