@@ -1,0 +1,78 @@
+Sphera Model Description,Pkg Type,Lead Count,Mass,Pkg Size,Family,Node,Power dissipation (max),DigiKey (soq),DigiKey (TR1500 or 1000),Arrow (soq),Arrow (1500),Mouser (soq),Mouser (1500),Rochester (1000),Avnet (1000),Avg Cost,Min Cost
+GLO: IC BGA 144 (181mg) 10x10mm MPU generic (130 nm node) Sphera,BGA,144,181.0,10x10mm,MPU generic,130.0,417.0,12.48,8.40915,,8.03,12.96,8.41,,,10.05783,8.03
+GLO: IC BGA 144 (360mg) 13X13mm MPU generic (130 nm node) Sphera,BGA,144,360.0,13X13mm,MPU generic,130.0,1300.0,11.85,,,,,,11.0,11.366,11.40533333,11.0
+GLO: IC BGA 144 (466mg) 13x13x1.75 [based on models 2004-2014] Sphera,BGA,144,466.0,13x13x1.75mm,Unknown,,82.5,76.92,59.61,,,,,,,68.265,59.61
+GLO: IC BGA 256 (2.62g) 27x27x2.36 CMOS logic (90 nm node) [based on models 2004-2014] Sphera,BGA,256,2620.0,27x27x2.36mm,CMOS logic,90.0,300.0,43.88,43.88,,,42.18,42.18,,41.79,42.782,41.79
+GLO: IC BGA 256 (4g) 27x27 mm CMOS logic (45 nm node) Sphera,BGA,256,4000.0,27x27mm,CMOS logic,45.0,300.0,40.17,40.17,,,39.79,39.79,42.37,43.75,41.00666667,39.79
+GLO: IC BGA 48 (70mg) 6x6x1.1mm MPU generic (130 nm node) [based on models 2004-2014] Sphera,BGA,48,70.0,6x6x1.1mm,MPU generic,130.0,380.0,3.34,3.34,,,,3.17,,,3.283333333,3.17
+GLO: IC BGA 48 (72mg) 8x6 mm MPU generic (14 nm node) Sphera,BGA,48,72.0,8x6mm,MPU generic,14.0,,,,,,,,,,,
+GLO: IC BGA 672 (4.92g) 35x35x2.36 CMOS logic (14 nm node) [based on models 2004-2014] Sphera,BGA,672,4920.0,35x35x2.36mm,CMOS logic,14.0,,,,,,,,,,,
+GLO: IC BGA 672 (4.92g) 35x35x2.36 CMOS logic (65 nm node) [based on models 2004-2014] Sphera,BGA,672,4920.0,35x35x2.36mm,CMOS logic,65.0,,,,,,,,,,,
+GLO: IC BGA 672 (6.6g) 27x27 mm CMOS (14 nm node) Sphera,BGA,672,6600.0,27x27mm,CMOS logic,14.0,,,,,,,,,,,
+GLO: IC DFN 10 (22.3 mg) 3x3 mm CMOS logic (14 nm node) Sphera,DFN,10,22.3,3x3mm,CMOS logic,14.0,250.0,,0.29,,,,,0.25,0.3,0.28,0.25
+GLO: IC DIP 24 (1.7g) 35.5x8.2 mm CMOS logic (250 nm node) Sphera,DIP,24,1700.0,35.5x8.2mm,CMOS logic,250.0,350.0,9.47,,,,,,8.13,8.66,8.753333333,8.13
+GLO: IC DIP 24 (2.59g) 35.5x8.2x3.8 [based on models 2004-2014] Sphera,DIP,24,2590.0,35.5x8.2x3.8mm,Unknown,,168.0,2.12,,,,,,1.82,,1.97,1.82
+GLO: IC DIP 42 (6.30g) 54.6x14.1x3.9 [based on models 2004-2014] Sphera,DIP,42,6300.0,54.6x14.1x3.9mm,Unknown,,1120.0,47.5,,,,,,40.77,44.07,44.11333333,40.77
+GLO: IC DIP 8 (480mg) 10.9x6.6x3.3 [based on models 2004-2014] Sphera,DIP,8,480.0,10.9x6.6x3.3mm,Unknown,,18.4,0.38,,0.44,,0.39,0.12,0.09,0.21,0.2716666667,0.09
+GLO: IC DIP 8 (538mg) 10.9x6.6 mm CMOS logic (250 nm node) Sphera,DIP,8,538.0,10.9x6.6mm,CMOS logic,250.0,830.0,,,,,,,0.39,0.42,0.405,0.39
+GLO: IC PLCC 20 (700mg) 8.9x8.9x3.8 [based on models 2004-2014] Sphera,PLCC,20,700.0,8.9x8.9x3.8mm,Unknown,,70.0,3.13,,,,,,2.69,,2.91,2.69
+GLO: IC PLCC 20 (751mg) 9x9 mm CMOS logic (250 nm node) Sphera,PLCC,20,751.0,9x9mm,CMOS logic,250.0,80.0,3.54,,,,,,3.04,3.38,3.32,3.04
+GLO: IC PLCC 44 (2.30g) 16.6x16.6x3.8 [based on models 2004-2014] Sphera,PLCC,44,2300.0,16.6x16.6x3.8mm,Unknown,,750.0,10.65,,,,,,9.14,,9.895,9.14
+GLO: IC PLCC 44 (2.6g) 16.6x16.6 mm CMOS logic (250 nm node) Sphera,PLCC,44,2600.0,16.6x16.6mm,CMOS logic,250.0,350.0,1.61,,,,,,1.38,1.52,1.503333333,1.38
+GLO: IC PLCC 68 (4.60g) 24.2x24.2x3.9 [based on models 2004-2014] Sphera,PLCC,68,4600.0,24.2x24.2x3.9mm,Unknown,,,,,,,,,,,,
+GLO: IC PLCC 68 (5g) 24.2x24.2 mm CMOS logic (250 nm node) Sphera,PLCC,68,5000.0,24.2x24.2mm,CMOS logic,250.0,315.0,8.6,,,,,,7.38,7.03,7.67,7.03
+GLO: IC QFN 24 (61.6 mg) 4x6 mm CMOS logic (14 nm node) Sphera,QFN,24,61.6,4x6mm,CMOS logic,14.0,700.0,2.36,1.16,2.58,1.22,2.33,1.15,,,1.8,1.15
+GLO: IC QFN 76 (578.8 mg) 10x11 mm CMOS logic (14 nm node) Sphera,QFN,76,578.8,10x11mm,CMOS logic,14.0,,,,,,,,,,,
+GLO: IC QFP 240 (6.20g) 32x32x3.5 [based on models 2004-2014] Sphera,QFP,240,6200.0,32x32x3.5mm,Unknown,,,,,,,,,,,,
+GLO: IC QFP 32 (180mg) 7x7x1.5 [based on models 2004-2014] Sphera,QFP,32,180.0,7x7x1.5mm,Unknown,,126.0,11.4,,,,,,9.79,9.92,10.37,9.79
+GLO: IC QFP 32 (184mg) 7x7 mm CMOS logic (90 nm node) Sphera,QFP,32,184.0,7x7mm,CMOS logic,90.0,,,,,,,,,,,
+GLO: IC QFP 80 (1.60g) 14x20x2.7 [based on models 2004-2014] Sphera,QFP,80,1600.0,14x20x2.7mm,Unknown,,249.0,12.52,,10.9,9.34,12.45,,,,11.3025,9.34
+GLO: IC SO 20 (500mg) 12.8x7.5x2.3 [based on models 2004-2014] Sphera,SO,20,500.0,12.8x7.5x2.3mm,Unknown,,180.0,1.7,,,,,,1.45,,1.575,1.45
+GLO: IC SO 20 (530mg) 12.8x7.5 mm CMOS logic (90 nm node) Sphera,SO,20,530.0,12.8x7.5mm,CMOS logic,90.0,588.8,1.31,,,0.39,1.1,0.498,0.4,,0.7396,0.39
+GLO: IC SSOP 14 (120mg) 6.0x5.3x1.75 [based on models 2004-2014] Sphera,SSOP,14,120.0,6.0x5.3x1.75mm,Unknown,,810.0,1.91,0.938,1.33,1.33,,0.864,0.77,,1.190333333,0.77
+GLO: IC SSOP 24 (123mg) 8.2x5.3 mm CMOS logic (65 nm node) Sphera,SSOP,24,123.0,8.2x5.3mm,CMOS logic,65.0,650.0,1.61,0.79,1.59,0.76,1.64,0.8,,,1.198333333,0.76
+GLO: IC SSOP 24 (210mg) 8.2x5.3x1.75 [based on models 2004-2014] Sphera,SSOP,24,210.0,8.2x5.3x1.75mm,Unknown,,500.0,69.9,,,,,,60.0,58.08,62.66,58.08
+GLO: IC SSOP 64 (340mg) 26x10.2x1.75 [based on models 2004-2014] Sphera,SSOP,64,340.0,26x10.2x1.75mm,Unknown,,,,,,,,,,,,
+GLO: IC TQFP 100 (513mg) 14x14 mm MPU generic (130 nm node) Sphera,TQFP,100,513.0,14x14mm,MPU generic,130.0,,,,,,,,,,,
+GLO: IC TQFP 100 (520mg) 14x14x1.0 [based on models 2004-2014] Sphera,TQFP,100,520.0,14x14x1.0mm,Unknown,,328.3,115.58,,101.45,,114.98,,86.39,,104.6,86.39
+GLO: IC TQFP 32 (146mg) 5x5 mm MPU generic (130 nm node) Sphera,TQFP,32,146.0,5x5mm,MPU generic,130.0,,,,,,,,,,,
+GLO: IC TQFP 32 (70mg) 5x5x1.0 [based on models 2004-2014] Sphera,TQFP,32,70.0,5x5x1.0mm,Unknown,,325.0,8.4,,9.26,9.11,16.42,10.81,9.41,,10.56833333,8.4
+GLO: IC TQFP 44 (260mg) 10x10x1.0 [based on models 2004-2014] Sphera,TQFP,44,260.0,10x10x1.0mm,Unknown,,439.0,44.19,,35.63,,41.31,,28.6,,37.4325,28.6
+GLO: IC TQFP 44 (272mg) 10x10 mm MPU generic (130 nm node) Sphera,TQFP,44,272.0,10x10mm,MPU generic,130.0,,,,,,,,,,,
+GLO: IC TSOP 28 (215mg) 8x13.4x1.2 DRAM [based on models 2004-2014] Sphera,TSOP,28,215.0,8x13.4x1.2mm,DRAM,,,,,,,,,,,,
+GLO: IC TSOP 28 (215mg) 8x13.4x1.2 flash [based on models 2004-2014] Sphera,TSOP,28,215.0,8x13.4x1.2mm,flash,,,,,,,,,,,,
+GLO: IC TSOP 28 (232mg) 8x13.4 mm DRAM (57 nm node) Sphera,TSOP,28,232.0,8x13.4mm,DRAM,57.0,,,,,,,,,,,
+GLO: IC TSOP 28 (232mg) 8x13.4 mm flash (45 nm node) Sphera,TSOP,28,232.0,8x13.4mm,flash,45.0,,,,,,,,,,,
+GLO: IC TSOP 32 (325mg) 8x20x1.2 DRAM [based on models 2004-2014] Sphera,TSOP,32,325.0,8x20x1.2mm,DRAM,,,,,,,,,,,,
+GLO: IC TSOP 32 (325mg) 8x20x1.2 flash [based on models 2004-2014] Sphera,TSOP,32,325.0,8x20x1.2mm,flash,,100.0,1.92,1.8,1.66,1.63,1.92,,,1.76,1.784285714,1.63
+GLO: IC TSOP 32 (373mg) 8x20 nm DRAM (57 nm node) Sphera,TSOP,32,373.0,8x20mm,DRAM,57.0,,,,,,,,,,,
+GLO: IC TSOP 32 (373mg) 8x20 nm flash (45 nm node) Sphera,TSOP,32,373.0,8x20mm,flash,45.0,,,,,,,,,,,
+GLO: IC TSOP 56 (590mg) 14x20x1.2 DRAM [based on models 2004-2014] Sphera,TSOP,56,590.0,14x20x1.2mm,DRAM,,100.0,1.92,1.42,1.4,,1.92,,,1.56,1.644,1.4
+GLO: IC TSOP 56 (590mg) 14x20x1.2 flash [based on models 2004-2014] Sphera,TSOP,56,590.0,14x20x1.2mm,flash,,,,,,,,,,,,
+GLO: IC TSSOP 16 (59mg) 4.4x5.0 mm DRAM (57 nm node) Sphera,TSSOP,16,59.0,4.4x5.0mm,DRAM,57.0,,,,,,,,,,,
+GLO: IC TSSOP 16 (59mg) 4.4x5.0 mm flash (45 nm node) Sphera,TSSOP,16,59.0,4.4x5.0mm,flash,45.0,,,,,,,,,,,
+GLO: IC TSSOP 16 (65mg) 4.4x5.0x1.2 DRAM [based on models 2004-2014] Sphera,TSSOP,16,65.0,4.4x5.0x1.2mm,DRAM,,,,,,,,,,,,
+GLO: IC TSSOP 16 (65mg) 4.4x5.0x1.2 flash [based on models 2004-2014] Sphera,TSSOP,16,65.0,4.4x5.0x1.2mm,flash,,,,,,,,,,,,
+GLO: IC TSSOP 48 (102mg) 6.1x12.5x1.2 DRAM [based on models 2004-2014] Sphera,TSSOP,48,102.0,6.1x12.5x1.2mm,DRAM,,180.0,6.47,4.61,6.47,4.37,7.18,5.13,,,5.705,4.37
+GLO: IC TSSOP 48 (102mg) 6.1x12.5x1.2 flash [based on models 2004-2014] Sphera,TSSOP,48,102.0,6.1x12.5x1.2mm,flash,,,,,,,,,,,,
+GLO: IC TSSOP 48 (187mg) 6.1x12.5 mm DRAM (57 nm node) Sphera,TSSOP,48,187.0,6.1x12.5mm,DRAM,57.0,,,,,,,,,,,
+GLO: IC TSSOP 48 (187mg) 6.1x12.5 mm flash (45 nm node) Sphera,TSSOP,48,187.0,6.1x12.5mm,flash,45.0,,,,,,,,,,,
+GLO: IC TSSOP 8 (23mg) 3x3 mm DRAM (57 nm node) Sphera,TSSOP,8,23.0,3x3mm,DRAM,57.0,,,,,,,,,,,
+GLO: IC TSSOP 8 (23mg) 3x3 mm flash (45 nm node) Sphera,TSSOP,8,23.0,3x3mm,flash,45.0,19.5,0.86,,,,0.86,,,0.8,0.83,0.8
+GLO: IC TSSOP 8 (28mg) 3.0x2.9x1.2 DRAM [based on models 2004-2014] Sphera,TSSOP,8,28.0,3.0x2.9x1.2mm,DRAM,,,,,,,,,,,,
+GLO: IC TSSOP 8 (28mg) 3.0x2.9x1.2 flash [based on models 2004-2014] Sphera,TSSOP,8,28.0,3.0x2.9x1.2mm,flash,,,,,,,,,,,,
+GLO: IC WLP CSP 196 (209mg) 12x12x1.41mm CMOS logic (14 nm node) Sphera,WLP CSP,196,209.0,12x12x1.41mm,CMOS logic,14.0,,,,,,,,,,,
+GLO: IC WLP CSP 196 (209mg) 12x12x1.41mm CMOS logic (22 nm node) Sphera,WLP CSP,196,209.0,12x12x1.41mm,CMOS logic,22.0,,,,,,,,,,,
+GLO: IC WLP CSP 196 (209mg) 12x12x1.41mm DRAM (57 nm node) Sphera,WLP CSP,196,209.0,12x12x1.41mm,DRAM,57.0,,,,,,,,,,,
+GLO: IC WLP CSP 196 (209mg) 12x12x1.41mm flash (45 nm node) Sphera,WLP CSP,196,209.0,12x12x1.41mm,flash,45.0,,,,,,,,,,,
+GLO: IC WLP CSP 196 (209mg) 12x12x1.41mm MPU generic (130 nm node) Sphera,WLP CSP,196,209.0,12x12x1.41mm,MPU generic,130.0,831.0,21.48,15.9,15.51,15.51,14.85,14.85,,15.74,15.9975,14.14
+GLO: IC WLP CSP 425 (4.78g) 19x19x1.5mm CMOS logic (14 nm node) Sphera,WLP CSP,425,4780.0,19x19x1.5mm,CMOS logic,14.0,,,,,,,,,,,
+GLO: IC WLP CSP 425 (4.78g) 19x19x1.5mm CMOS logic (22 nm node) Sphera,WLP CSP,425,4780.0,19x19x1.5mm,CMOS logic,22.0,,,,,,,,,,,
+GLO: IC WLP CSP 425 (4.78g) 19x19x1.5mm DRAM (57 nm node) Sphera,WLP CSP,425,4780.0,19x19x1.5mm,DRAM,57.0,,,,,,,,,,,
+GLO: IC WLP CSP 425 (4.78g) 19x19x1.5mm flash (45 nm node) Sphera,WLP CSP,425,4780.0,19x19x1.5mm,flash,45.0,,,,,,,,,,,
+GLO: IC WLP CSP 425 (4.78g) 19x19x1.5mm MPU generic (130 nm node) Sphera,WLP CSP,425,4780.0,19x19x1.5mm,MPU generic,130.0,105.0,16.28,10.31,11.85,11.5,16.13,10.23,,,12.71666667,10.23
+GLO: IC WLP CSP 49 (10.2mg) 3.17x3.17x0.55mm CMOS logic (14 nm node) Sphera,WLP CSP,49,10.2,3.17x3.17x0.55mm,CMOS logic,14.0,,,,,,,,,,,
+GLO: IC WLP CSP 49 (10.2mg) 3.17x3.17x0.55mm CMOS logic (22 nm node) Sphera,WLP CSP,49,10.2,3.17x3.17x0.55mm,CMOS logic,22.0,28.8,3.29,,,,1.46,,1.44,,2.063333333,1.44
+GLO: IC WLP CSP 49 (10.2mg) 3.17x3.17x0.55mm DRAM (57 nm node) Sphera,WLP CSP,49,10.2,3.17x3.17x0.55mm,DRAM,57.0,,,,,,,,,,,
+GLO: IC WLP CSP 49 (10.2mg) 3.17x3.17x0.55mm flash (45 nm node) Sphera,WLP CSP,49,10.2,3.17x3.17x0.55mm,flash,45.0,0.005,3.51,,,,,,,3.17,3.31,3.17
+GLO: IC WLP CSP 49 (10.2mg) 3.17x3.17x0.55mm MPU generic (130 nm node) Sphera,WLP CSP,49,10.2,3.17x3.17x0.55mm,MPU generic,130.0,104.0,5.44,2.9,3.65,2.54,4.81,2.81,,2.77,3.44625,2.54
